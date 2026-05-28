@@ -5,6 +5,8 @@ A one-time-purchase toolkit that pipes your static website's contact form submis
 ![Views](https://komarev.com/ghpvc/?username=ttcd77&repo=form-handler&label=Views&color=blue)
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
+📖 **[Read the tutorial: How to Build a Contact Form Backend for $0/Month Using Google Sheets](TUTORIAL.md)** — full step-by-step walkthrough with code snippets, competitor pricing comparison, and architecture deep-dive.
+
 ## The Problem
 
 Freelancers and agencies building static sites hit the same wall: the client wants a contact form, but nobody wants to set up a backend for 5 lines of HTML.
