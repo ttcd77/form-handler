@@ -44,7 +44,7 @@ Submissions now flow into your Google Sheet. Done.
 
 ## Buy the Full Version — $25
 
-The open-source `form-handler.gs` in this repo is production-ready. The [$25 full version](https://github.com/ttcd77/form-handler#buy-the-full-version) adds:
+The open-source `form-handler.gs` in this repo is production-ready. The $25 full version adds:
 
 - **setup.html** — dark-themed dashboard to configure email, spam filters, rate limits, and auto-reply without touching code
 - **Spam protection** — honeypot field detection + keyword blocklist with silent rejection (bots can't tell they're filtered)
@@ -53,7 +53,7 @@ The open-source `form-handler.gs` in this repo is production-ready. The [$25 ful
 - **Full documentation** — step-by-step setup, troubleshooting guide, customization docs
 - **Free updates** — all future versions included
 
-[Buy the Full Version — $25](https://ko-fi.com/selfloom/shop) *(payment link pending setup)*
+**Buy the Full Version — $25** *(payment link coming this week — star the repo to get notified)*
 
 ### Why $25 one-time?
 
