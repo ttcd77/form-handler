@@ -74,6 +74,10 @@ landing-page.html        Ready-to-share product page for your clients
 
 MIT — you own the code. Use it for unlimited clients, bundle it with your agency projects, modify it however you want.
 
+## More from selfloom
+
+- [Developer's Freelance Contract Kit](https://github.com/ttcd77/freelance-contract-kit) — 5 lawyer-reviewed contract templates for freelance web developers. $24 one-time.
+
 ## Built by
 
 [selfloom](https://selfloom.ai) — we build tools for developers who hate subscriptions.
