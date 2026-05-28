@@ -9,6 +9,8 @@ A one-time-purchase toolkit that pipes your static website's contact form submis
 
 📢 **[Also on DEV Community](https://dev.to/ttcd77/build-a-0month-contact-form-backend-with-google-sheets-27lg)** — developer discussion and reactions.
 
+📊 **[2026 Pricing Comparison Guide](https://gist.github.com/ttcd77/3df128c37644afd08b72c5f33bc3bbce)** — web3forms vs Formspree vs Formcarry vs Tally vs Google Apps Script: real costs for freelancers with 5 client sites.
+
 ## The Problem
 
 Freelancers and agencies building static sites hit the same wall: the client wants a contact form, but nobody wants to set up a backend for 5 lines of HTML.
