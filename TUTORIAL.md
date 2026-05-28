@@ -307,4 +307,4 @@ The MIT license means you can do whatever you want with it. Bundle it with your 
 
 **More from selfloom:**
 
-- [**Developer's Freelance Contract Kit**](https://github.com/ttcd77/freelance-contract-kit) — 5 lawyer-reviewed contract templates for freelance web developers. Includes scope-of-work, IP assignment, payment terms, and kill-fee clauses. $24 one-time with unlimited reuse. Save $500+ per contract vs. hiring a lawyer to draft from scratch.
+- [**URL Environment Switcher**](https://github.com/ttcd77/url-switcher) — free Chrome extension that toggles between localhost, staging, and production URLs in one click. Manifest V3, no data collection, works with custom domains. Download the ZIP and load unpacked — no Chrome Web Store required.
