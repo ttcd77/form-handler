@@ -7,6 +7,8 @@ A one-time-purchase toolkit that pipes your static website's contact form submis
 
 📖 **[Read the tutorial: How to Build a Contact Form Backend for $0/Month Using Google Sheets](TUTORIAL.md)** — full step-by-step walkthrough with code snippets, competitor pricing comparison, and architecture deep-dive.
 
+📢 **[Also on DEV Community](https://dev.to/ttcd77/build-a-0month-contact-form-backend-with-google-sheets-27lg)** — developer discussion and reactions.
+
 ## The Problem
 
 Freelancers and agencies building static sites hit the same wall: the client wants a contact form, but nobody wants to set up a backend for 5 lines of HTML.
