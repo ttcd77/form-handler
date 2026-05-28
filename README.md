@@ -81,7 +81,7 @@ MIT — you own the code. Use it for unlimited clients, bundle it with your agen
 
 ## More from selfloom
 
-- [Developer's Freelance Contract Kit](https://github.com/ttcd77/freelance-contract-kit) — 5 lawyer-reviewed contract templates for freelance web developers. $24 one-time.
+- [URL Environment Switcher](https://github.com/ttcd77/url-switcher) — One-click Chrome extension to jump between localhost, staging, and production while preserving path, query, and hash. Free, MIT licensed.
 
 ## Built by
 
