@@ -2,6 +2,7 @@
 
 A one-time-purchase toolkit that pipes your static website's contact form submissions into Google Sheets — with email notifications, spam protection, and a setup dashboard. No monthly subscription. One $25 payment. Use on unlimited client sites.
 
+![Views](https://komarev.com/ghpvc/?username=ttcd77&repo=form-handler&label=Views&color=blue)
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 ## The Problem
