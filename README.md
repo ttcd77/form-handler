@@ -56,7 +56,7 @@ The open-source `form-handler.gs` in this repo is production-ready. The $25 full
 - **Full documentation** — step-by-step setup, troubleshooting guide, customization docs
 - **Free updates** — all future versions included
 
-**Buy the Full Version — $25** *(payment link coming this week — star the repo to get notified)*
+**[Buy the Full Version — $25](https://buymeacoffee.com/selfloom)** — include "Form Handler" in the Buy Me a Coffee message so we can send the package to your email.
 
 ### Why $25 one-time?
 
